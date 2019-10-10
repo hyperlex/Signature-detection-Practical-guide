@@ -1,0 +1,9 @@
+tensorflow==1.15.0-rc1
+Cython
+contextlib2
+lxml
+jupyter
+matplotlib
+numpy
+Pillow
+argparse

@@ -1,0 +1,565 @@
+{
+  "name": "signature_detection_blog",
+  "securityToken": "signature_detection_blog Token",
+  "sourceConnection": {
+    "name": "signature_detection_blog_dataset",
+    "providerType": "localFileSystemProxy",
+    "providerOptions": {
+      "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmU5Mzc1YjZhZGJiODBlYjBjZDYyOGJkMzJiOWUxZThmMTMxNTg3YzUzNGQ4OWJlYjZjZTQ0YzdkY2Y4NDY0OWFjOWM3M2Y1ZTc5MDFmNzU3MDA0Y2RjNzAzZWZmNjFlZTkxNTI1ZGFhN2M4M2E1NjY3ZTcyMzdmYmUxZDRjNzMwMDVmMDRiYWMwNjU4YWI4YWYyMjU1NDE0Y2QwOTc2ZTM5ZDg4MjIwNjI2MDhmZWU3ZWI2YzBlMGMzNDE1MzIxIiwiaXYiOiI5YjM0NTViNDViNWJhZGM2YjdlM2IxYjZhMTBmN2E1MDNiM2E2MjAzYzM1M2VhMzUifQ=="
+    },
+    "id": "Tg-pyZx_V"
+  },
+  "targetConnection": {
+    "name": "signature_detection_blog_dataset",
+    "providerType": "localFileSystemProxy",
+    "providerOptions": {
+      "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNGRiYWM5ZDM1NTU0Mjc4NWNkNDMwOWJjOGY1NWQ4OGQxMGRiZDU5N2NkMDY4OGZiNzNiZWVmMjhiMDcxNGMwMWY4Y2QxMTAwNTQ3MzkwYjc0YjU3OTdlMGVjYTAwZGIzYjY1ODEzYjQ1MjJmYmE2NGZiZmZjYjQ3OWRjNjA4NWM0NGY1MTkzN2NhZGMxYTMzNTc5ZmVjZjZmYzcyNzFkODg4NTYyOWRkMDdlZTA1NzRlNTdhZGY5YmNiMTg5MDZkIiwiaXYiOiI0ZDRhNjE3YjY4ZTFjNzdkNjE1ZWRkOTM3MGE3Y2YwZjNhNTNmMmM5OWFlZTQwNWMifQ=="
+    },
+    "id": "Tg-pyZx_V"
+  },
+  "videoSettings": {
+    "frameExtractionRate": 15
+  },
+  "tags": [
+    {
+      "name": "signature",
+      "color": "#FFFF00"
+    },
+    {
+      "name": "paraphe",
+      "color": "#00FFFF"
+    }
+  ],
+  "id": "FlkrCFJz1",
+  "activeLearningSettings": {
+    "autoDetect": false,
+    "predictTag": true,
+    "modelPathType": "coco"
+  },
+  "exportFormat": {
+    "providerType": "vottJson",
+    "providerOptions": {
+      "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZjJmMDhmNTFiNGQ5NzYyNjQ5MmViMDcyMDI5OWQzMTRiYThhYTFlMjEyNDFkYjBjY2UwYWExYzRlZWQ2Y2M5YzU3ZThkMGMzZTgzYmYzNDEzOTUzNzJlMzgxNmRkMGQxIiwiaXYiOiJjNjRiMTExMTk5MzNlNGRjYzlmZDBlYWYzNzlmMzA4ODVhMjY2OTVhNWZkMTM0MzMifQ=="
+    }
+  },
+  "version": "2.1.0",
+  "lastVisitedAssetId": "94bac53e2d8e1840ec06bb3daa20efde",
+  "assets": {
+    "3e3cc0461e9c11e75602394fc7fbca95": {
+      "format": "jpg",
+      "id": "3e3cc0461e9c11e75602394fc7fbca95",
+      "name": "image_26.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_26.jpg",
+      "size": {
+        "width": 1663,
+        "height": 2344
+      },
+      "state": 2,
+      "type": 1
+    },
+    "e72121c269e8a5f3d882e925b773d1b9": {
+      "format": "jpg",
+      "id": "e72121c269e8a5f3d882e925b773d1b9",
+      "name": "image_44.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_44.jpg",
+      "size": {
+        "width": 1657,
+        "height": 2340
+      },
+      "state": 2,
+      "type": 1
+    },
+    "3aedd678daf035361c65e15d73d08793": {
+      "format": "jpg",
+      "id": "3aedd678daf035361c65e15d73d08793",
+      "name": "image_19.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_19.jpg",
+      "size": {
+        "width": 1655,
+        "height": 2339
+      },
+      "state": 2,
+      "type": 1
+    },
+    "7c3047752836e4fd16c02024d2d9b220": {
+      "format": "jpg",
+      "id": "7c3047752836e4fd16c02024d2d9b220",
+      "name": "image_33.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_33.jpg",
+      "size": {
+        "width": 1656,
+        "height": 2341
+      },
+      "state": 2,
+      "type": 1
+    },
+    "09eda920710aeac7fd806503829aead7": {
+      "format": "jpg",
+      "id": "09eda920710aeac7fd806503829aead7",
+      "name": "image_38.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_38.jpg",
+      "size": {
+        "width": 1664,
+        "height": 2346
+      },
+      "state": 2,
+      "type": 1
+    },
+    "1feb953f4987564e020c6aff15fec83a": {
+      "format": "jpg",
+      "id": "1feb953f4987564e020c6aff15fec83a",
+      "name": "image_15.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_15.jpg",
+      "size": {
+        "width": 1656,
+        "height": 2341
+      },
+      "state": 2,
+      "type": 1
+    },
+    "4e74618cdcf958b0cf108318c54a405e": {
+      "format": "jpg",
+      "id": "4e74618cdcf958b0cf108318c54a405e",
+      "name": "image_42.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_42.jpg",
+      "size": {
+        "width": 1674,
+        "height": 2352
+      },
+      "state": 2,
+      "type": 1
+    },
+    "62db0598df57738f9884f2d587ed7631": {
+      "format": "jpg",
+      "id": "62db0598df57738f9884f2d587ed7631",
+      "name": "image_39.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_39.jpg",
+      "size": {
+        "width": 1681,
+        "height": 2357
+      },
+      "state": 2,
+      "type": 1
+    },
+    "5f842697452d03175d79a4da15680256": {
+      "format": "jpg",
+      "id": "5f842697452d03175d79a4da15680256",
+      "name": "image_25.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_25.jpg",
+      "size": {
+        "width": 1661,
+        "height": 2345
+      },
+      "state": 2,
+      "type": 1
+    },
+    "74b6542be280e332ef6986e2cfd0c2d1": {
+      "format": "jpg",
+      "id": "74b6542be280e332ef6986e2cfd0c2d1",
+      "name": "image_24.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_24.jpg",
+      "size": {
+        "width": 1659,
+        "height": 2344
+      },
+      "state": 2,
+      "type": 1
+    },
+    "ff2d61792d2d08620df8593cebfc2212": {
+      "format": "jpg",
+      "id": "ff2d61792d2d08620df8593cebfc2212",
+      "name": "image_37.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_37.jpg",
+      "size": {
+        "width": 1660,
+        "height": 2343
+      },
+      "state": 2,
+      "type": 1
+    },
+    "9563f7136cf9e3cfd6b33bf886b1a3be": {
+      "format": "jpg",
+      "id": "9563f7136cf9e3cfd6b33bf886b1a3be",
+      "name": "image_10.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_10.jpg",
+      "size": {
+        "width": 1657,
+        "height": 2341
+      },
+      "state": 2,
+      "type": 1
+    },
+    "f0b47a56307f8dc2ef8d7fd152cad921": {
+      "format": "jpg",
+      "id": "f0b47a56307f8dc2ef8d7fd152cad921",
+      "name": "image_22.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_22.jpg",
+      "size": {
+        "width": 1656,
+        "height": 2340
+      },
+      "state": 2,
+      "type": 1
+    },
+    "2876353694512d97ce746aed6799cc46": {
+      "format": "jpg",
+      "id": "2876353694512d97ce746aed6799cc46",
+      "name": "image_5.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_5.jpg",
+      "size": {
+        "width": 1674,
+        "height": 2353
+      },
+      "state": 2,
+      "type": 1
+    },
+    "86af257b88349482e224a29a40c0d4c1": {
+      "format": "jpg",
+      "id": "86af257b88349482e224a29a40c0d4c1",
+      "name": "image_18.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_18.jpg",
+      "size": {
+        "width": 1671,
+        "height": 2350
+      },
+      "state": 2,
+      "type": 1
+    },
+    "a0956876b476836630a9310ff51e88c4": {
+      "format": "jpg",
+      "id": "a0956876b476836630a9310ff51e88c4",
+      "name": "image_7.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_7.jpg",
+      "size": {
+        "width": 1692,
+        "height": 2365
+      },
+      "state": 2,
+      "type": 1
+    },
+    "35f22bbd45d5fffdcc0f7cc746493e4e": {
+      "format": "jpg",
+      "id": "35f22bbd45d5fffdcc0f7cc746493e4e",
+      "name": "image_3.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_3.jpg",
+      "size": {
+        "width": 1689,
+        "height": 2362
+      },
+      "state": 2,
+      "type": 1
+    },
+    "99789719a193ba0ca5965bd3d9376b12": {
+      "format": "jpg",
+      "id": "99789719a193ba0ca5965bd3d9376b12",
+      "name": "image_8.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_8.jpg",
+      "size": {
+        "width": 1695,
+        "height": 2368
+      },
+      "state": 2,
+      "type": 1
+    },
+    "2dbe1038abcbff47e8acfc775ce6db21": {
+      "format": "jpg",
+      "id": "2dbe1038abcbff47e8acfc775ce6db21",
+      "name": "image_4.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_4.jpg",
+      "size": {
+        "width": 1660,
+        "height": 2343
+      },
+      "state": 2,
+      "type": 1
+    },
+    "22655bb2c4cba5393f437ca34fb94c77": {
+      "format": "jpg",
+      "id": "22655bb2c4cba5393f437ca34fb94c77",
+      "name": "image_28.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_28.jpg",
+      "size": {
+        "width": 1665,
+        "height": 2346
+      },
+      "state": 2,
+      "type": 1
+    },
+    "369a007eeff07a61d2b046ff643e2fa6": {
+      "format": "jpg",
+      "id": "369a007eeff07a61d2b046ff643e2fa6",
+      "name": "image_13.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_13.jpg",
+      "size": {
+        "width": 1659,
+        "height": 2342
+      },
+      "state": 2,
+      "type": 1
+    },
+    "289e0c5761f92ca0a407ffed5146f1d3": {
+      "format": "jpg",
+      "id": "289e0c5761f92ca0a407ffed5146f1d3",
+      "name": "image_17.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_17.jpg",
+      "size": {
+        "width": 1657,
+        "height": 2340
+      },
+      "state": 2,
+      "type": 1
+    },
+    "243feb2b55c4363c906e30fc95b7543a": {
+      "format": "jpg",
+      "id": "243feb2b55c4363c906e30fc95b7543a",
+      "name": "image_31.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_31.jpg",
+      "size": {
+        "width": 1660,
+        "height": 2342
+      },
+      "state": 2,
+      "type": 1
+    },
+    "faecf8232185bead71569293253b7fa6": {
+      "format": "jpg",
+      "id": "faecf8232185bead71569293253b7fa6",
+      "name": "image_29.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_29.jpg",
+      "size": {
+        "width": 1660,
+        "height": 2342
+      },
+      "state": 2,
+      "type": 1
+    },
+    "1d9ced0f78abc8fa69c45e6eff59592f": {
+      "format": "jpg",
+      "id": "1d9ced0f78abc8fa69c45e6eff59592f",
+      "name": "image_46.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_46.jpg",
+      "size": {
+        "width": 1658,
+        "height": 2342
+      },
+      "state": 2,
+      "type": 1
+    },
+    "3222b42a5f6e8a6458326fffba292188": {
+      "format": "jpg",
+      "id": "3222b42a5f6e8a6458326fffba292188",
+      "name": "image_40.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_40.jpg",
+      "size": {
+        "width": 1663,
+        "height": 2344
+      },
+      "state": 2,
+      "type": 1
+    },
+    "0d3920127c8fa96c428f6a897de97141": {
+      "format": "jpg",
+      "id": "0d3920127c8fa96c428f6a897de97141",
+      "name": "image_41.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_41.jpg",
+      "size": {
+        "width": 1665,
+        "height": 2346
+      },
+      "state": 2,
+      "type": 1
+    },
+    "33f225dc7298aaf2e77a0f849769e9ee": {
+      "format": "jpg",
+      "id": "33f225dc7298aaf2e77a0f849769e9ee",
+      "name": "image_14.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_14.jpg",
+      "size": {
+        "width": 1666,
+        "height": 2346
+      },
+      "state": 1,
+      "type": 1
+    },
+    "b813133b78b8b0120c69585c1cfdf399": {
+      "format": "jpg",
+      "id": "b813133b78b8b0120c69585c1cfdf399",
+      "name": "image_32.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_32.jpg",
+      "size": {
+        "width": 1658,
+        "height": 2342
+      },
+      "state": 1,
+      "type": 1
+    },
+    "12d258e3acea75a420a93a11d1a06eab": {
+      "format": "jpg",
+      "id": "12d258e3acea75a420a93a11d1a06eab",
+      "name": "image_16.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_16.jpg",
+      "size": {
+        "width": 1661,
+        "height": 2343
+      },
+      "state": 2,
+      "type": 1
+    },
+    "e5254f780f7afb1b2dbd86b37adcf8da": {
+      "format": "jpg",
+      "id": "e5254f780f7afb1b2dbd86b37adcf8da",
+      "name": "image_34.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_34.jpg",
+      "size": {
+        "width": 1655,
+        "height": 2339
+      },
+      "state": 2,
+      "type": 1
+    },
+    "1665e44f43ab635ebdfd5cc4d23706d8": {
+      "format": "jpg",
+      "id": "1665e44f43ab635ebdfd5cc4d23706d8",
+      "name": "image_20.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_20.jpg",
+      "size": {
+        "width": 1662,
+        "height": 2344
+      },
+      "state": 2,
+      "type": 1
+    },
+    "2d30d86f62170e9e489ea540e8b4a39f": {
+      "format": "jpg",
+      "id": "2d30d86f62170e9e489ea540e8b4a39f",
+      "name": "image_6.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_6.jpg",
+      "size": {
+        "width": 1662,
+        "height": 2344
+      },
+      "state": 2,
+      "type": 1
+    },
+    "2741eff2d159c91fd479197db5bedf5a": {
+      "format": "jpg",
+      "id": "2741eff2d159c91fd479197db5bedf5a",
+      "name": "image_35.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_35.jpg",
+      "size": {
+        "width": 1662,
+        "height": 2344
+      },
+      "state": 2,
+      "type": 1
+    },
+    "2338d4d6665b7c787ab59e657ad5f8a2": {
+      "format": "jpg",
+      "id": "2338d4d6665b7c787ab59e657ad5f8a2",
+      "name": "image_9.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_9.jpg",
+      "size": {
+        "width": 1669,
+        "height": 2349
+      },
+      "state": 2,
+      "type": 1
+    },
+    "22b7b013a3d853d6ed962e60fde8bc72": {
+      "format": "jpg",
+      "id": "22b7b013a3d853d6ed962e60fde8bc72",
+      "name": "image_21.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_21.jpg",
+      "size": {
+        "width": 1662,
+        "height": 2344
+      },
+      "state": 2,
+      "type": 1
+    },
+    "e2637bfe01168d4e028e28b72a1484e3": {
+      "format": "jpg",
+      "id": "e2637bfe01168d4e028e28b72a1484e3",
+      "name": "image_23.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_23.jpg",
+      "size": {
+        "width": 1662,
+        "height": 2344
+      },
+      "state": 2,
+      "type": 1
+    },
+    "e3218a671baf8454c595b7947a3b3dbe": {
+      "format": "jpg",
+      "id": "e3218a671baf8454c595b7947a3b3dbe",
+      "name": "image_11.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_11.jpg",
+      "size": {
+        "width": 1682,
+        "height": 2358
+      },
+      "state": 2,
+      "type": 1
+    },
+    "02e00bc1b9b68ac7198bf5449e28ef26": {
+      "format": "jpg",
+      "id": "02e00bc1b9b68ac7198bf5449e28ef26",
+      "name": "image_45.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_45.jpg",
+      "size": {
+        "width": 1684,
+        "height": 2359
+      },
+      "state": 2,
+      "type": 1
+    },
+    "c9428a2d6e8f5305a8558118d2b5f5d4": {
+      "format": "jpg",
+      "id": "c9428a2d6e8f5305a8558118d2b5f5d4",
+      "name": "image_27.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_27.jpg",
+      "size": {
+        "width": 1665,
+        "height": 2346
+      },
+      "state": 2,
+      "type": 1
+    },
+    "35b5365cfbbe4b186dc24c2f995f8916": {
+      "format": "jpg",
+      "id": "35b5365cfbbe4b186dc24c2f995f8916",
+      "name": "image_1.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_1.jpg",
+      "size": {
+        "width": 1656,
+        "height": 2340
+      },
+      "state": 2,
+      "type": 1
+    },
+    "39469fc1e79e0a3e8235ea772be6dd72": {
+      "format": "jpg",
+      "id": "39469fc1e79e0a3e8235ea772be6dd72",
+      "name": "image_12.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_12.jpg",
+      "size": {
+        "width": 1655,
+        "height": 2339
+      },
+      "state": 2,
+      "type": 1
+    },
+    "94bac53e2d8e1840ec06bb3daa20efde": {
+      "format": "jpg",
+      "id": "94bac53e2d8e1840ec06bb3daa20efde",
+      "name": "image_2.jpg",
+      "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_2.jpg",
+      "size": {
+        "width": 1916,
+        "height": 2516
+      },
+      "state": 1,
+      "type": 1
+    }
+  }
+}

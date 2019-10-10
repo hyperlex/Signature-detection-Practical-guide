@@ -1,0 +1,17 @@
+{"module": "HandwritingDetector",
+  "config": {
+  "NeuralNetwork": "faster_rcnn_inceptionv2",
+  "resizing": "No",
+  "ImageSize": [50, 30],
+  "MaxIterVisualization" : 10
+            },
+  "LabelMap": {
+                            "1":
+                            {
+                              "id": 1,
+                              "name": "signature"
+                            }
+
+              }
+
+}

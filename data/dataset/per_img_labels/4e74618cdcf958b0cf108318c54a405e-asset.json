@@ -1,0 +1,48 @@
+{
+  "asset": {
+    "format": "jpg",
+    "id": "4e74618cdcf958b0cf108318c54a405e",
+    "name": "image_42.jpg",
+    "path": "file:/home/ouardinik/signature_detection_practical_guide/data/dataset/image_42.jpg",
+    "size": {
+      "width": 1674,
+      "height": 2352
+    },
+    "state": 2,
+    "type": 1
+  },
+  "regions": [
+    {
+      "id": "g1eHG8Hd6",
+      "type": "RECTANGLE",
+      "tags": [
+        "signature"
+      ],
+      "boundingBox": {
+        "height": 250.43249176728867,
+        "width": 555.4166666666667,
+        "left": 1022.2330729166667,
+        "top": 2034.441273326015
+      },
+      "points": [
+        {
+          "x": 1022.2330729166667,
+          "y": 2034.441273326015
+        },
+        {
+          "x": 1577.6497395833335,
+          "y": 2034.441273326015
+        },
+        {
+          "x": 1577.6497395833335,
+          "y": 2284.873765093304
+        },
+        {
+          "x": 1022.2330729166667,
+          "y": 2284.873765093304
+        }
+      ]
+    }
+  ],
+  "version": "2.1.0"
+}

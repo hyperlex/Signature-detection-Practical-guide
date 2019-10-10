@@ -1,0 +1,11 @@
+Handwriting detector:
+
+for quick inference
+
+1. use parser to define the config file path, the model path (frozen graph) and the directory of images
+   to run the inference on. (see run_detector.sh)
+2. If images are already loaded in memory, you can also pass a list of PIL.Image objects to the detector.
+   In that case directly change the inference_samples variable to pass the list of images as
+   PIL.JpegImagePlugin.JpegImageFile objects.
+3. The main function of the script will output a dictionary (output_dict) with the bounding boxes coordinates
+   and a matplotlib visualization of each image with the plotted bounding boxes.
