@@ -3,7 +3,7 @@
 </h1>
 
 **The aim of this repository is to explain explain how to train a signature detector in few steps, and use it for inference.**
-In our **[BLOG post]**, we provide complementary information on the motivations and the background of this project. We also explain how you can annotate your documents in few steps. Make sure to check it! **[BLOG post]**
+In our [BLOG post](https://hyperlex.ai/blog/tech/handwriting-detection-contract-management.html), we provide complementary information on the motivations and the background of this project. We also explain how you can annotate your documents in few steps. Make sure to check it!
 
 ## Quick Setup (OS/Linux)
 
@@ -82,7 +82,7 @@ OK (skipped=1)
 ```
 
 ## Creating dataset
-If you wish to create your own custom dataset, we explain the process of **image annotation** in the section of our [BLOG] post.
+If you wish to create your own custom dataset, we explain the process of **image annotation** in the section of our [blog](https://hyperlex.ai/blog/tech/handwriting-detection-contract-management.html) post.
 We also provide sample images of signed contracts in this repository. to create a dataset for signature detection with the provided images:
 
 ```
