@@ -1,4 +1,4 @@
-tensorflow==1.15.0-rc1
+tensorflow==2.4.0rc4
 Cython
 contextlib2
 lxml
